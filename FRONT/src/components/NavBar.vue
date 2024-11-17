@@ -4,7 +4,7 @@
     <div class="container">
       <a class="navbar-brand" href="#">
         <i class="fas fa-box-open me-2"></i>
-        Gestión de Productos
+        Gestión de Productos!
       </a>
       <button
         class="navbar-toggler"
